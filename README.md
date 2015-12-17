@@ -103,7 +103,7 @@ Dùng LDAP xác thực một user đăng nhập vào một hệ thống qua chư
 ###I. Chuẩn bị
 Ta chuẩn bị 2 máy cài ubuntu server 14.04: Test1, Test2 , mỗi máy chỉ có 1 user đăng nhập là user root theo mô hình như sau:
 
-<img src ="http://i.imgur.com/L7fTHN2.png">
+<img src ="http://i.imgur.com/NzR8Spn.png">
 
 ###II. Cài đặt
 ####1. Cài đặt DHCP
